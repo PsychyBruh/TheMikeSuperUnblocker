@@ -50,7 +50,7 @@ Installation of Ultraviolet is simple. You can find a Tl;DR of the installation 
 ## Basic Guide
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node --recursive
+$ git clone https://github.com/PsychyBruh/TheMikeSuperUnblocker --recursive
 $ cd Ultraviolet-Node
 $ npm install
 $ npm start
@@ -77,7 +77,7 @@ Below will describe a comprehensive guide to install Ultraviolet on Linux machin
 To clone the repository, simply run the following command:
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node --recursive
+$ git clone https://github.com/PsychyBruh/TheMikeSuperUnblocker --recursive
 ```
 
 The `--recursive` flag will clone the repository and all submodules.
@@ -94,18 +94,18 @@ From here, you can update your submodules and install your dependencies. To do s
 $ npm install
 ```
 
-Finally, to start Ultraviolet, run the following command:
+Finally, to start using The Mike Super Unblocker, run the following command:
 
 ```sh
 $ npm start
 ```
 
-You can then find Ultraviolet on `http://127.0.0.1:8080`. If you would like to change the port UV will be running on, edit the last line in `index.mjs`. 
+You can then find The Mike Super Unblocker on `http://127.0.0.1:8080`. If you would like to change the port UV will be running on, edit the last line in `index.mjs`. 
 
 Please note that UV will not function without HTTPS. If you are hosting on Replit or Heroku, this won't be a problem as they provide you with SSL/TLS by default and will automatically apply it to your instance, however if you are attempting to host UV on a different platform, such as a personal server, you **WILL** need to use HTTPS. 
 
 ## Configuration
-Configuring Ultraviolet is very simple. Simple descriptions of each configurable option are provided as a comment in the block below. More detailed documentation can be found just below mentioned block.
+Configuring The Mike Super Unblocker is very simple. Simple descriptions of each configurable option are provided as a comment in the block below. More detailed documentation can be found just below mentioned block.
 
 `uv.config.js`
 
