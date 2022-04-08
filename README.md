@@ -7,7 +7,7 @@
 
 ## Quick Deployments
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/PsychyBruh/TheMikeSuperUnblocker)
-[![Offical Website](https://themikesuperunblocker.psychy.repl.co/)
+[Offical Website](https://themikesuperunblocker.psychy.repl.co/)
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
