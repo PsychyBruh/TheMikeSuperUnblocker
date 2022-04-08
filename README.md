@@ -7,6 +7,8 @@
 
 ## Quick Deployments
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/PsychyBruh/TheMikeSuperUnblocker)
+[![Offical Website.(https://themikesuperunblocker.psychy.repl.co)
+
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
@@ -51,7 +53,6 @@ Installation of Ultraviolet is simple. You can find a Tl;DR of the installation 
 
 ```sh
 $ git clone https://github.com/PsychyBruh/TheMikeSuperUnblocker --recursive
-$ cd Ultraviolet-Node
 $ npm install
 $ npm start
 ```
@@ -82,10 +83,8 @@ $ git clone https://github.com/PsychyBruh/TheMikeSuperUnblocker --recursive
 
 The `--recursive` flag will clone the repository and all submodules.
 
-To begin work on the actual setup, cd into the repository. You can do so by running the following command:
 
-```sh
-$ cd Ultraviolet-Node
+
 ```
 
 From here, you can update your submodules and install your dependencies. To do so, run the following command:
@@ -93,6 +92,10 @@ From here, you can update your submodules and install your dependencies. To do s
 ```sh
 $ npm install
 ```
+Also after running npm install run npm update to update the required updates.
+
+                               WARNING!!!
+                               DO NOT UPDATE TO ANY MAJOR UPDATE UNLESS IT'S SUPPORTED!!!!
 
 Finally, to start using The Mike Super Unblocker, run the following command:
 
@@ -135,7 +138,7 @@ self.__uv$config = {
 
 ## Static Files
 
-Static files is the frontend for Ultraviolet. A standalone repository for it can be found [here](https://github.com/titaniumnetwork-dev/Ultraviolet-Static).
+Static files is the frontend for The Mike Super Unblocker. A standalone repository for it can be found [here](https://github.com/titaniumnetwork-dev/Ultraviolet-Static).
 
 ## Core Scripts
 
@@ -156,8 +159,8 @@ The client-hooking & service worker scripts required for UV are located in [ultr
 
 - Caracal.js (Creator of Ultraviolet)
 - Divide (Creator of TOMP)
+-Psychy Bruh (Changes to The Mike Super Unblocker)
 
 # Credits
 - https://github.com/tomphttp
-
-
+- https://github.com/PsychyBruh
